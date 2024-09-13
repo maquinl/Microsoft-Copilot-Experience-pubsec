@@ -41,6 +41,6 @@ This optional task demonstrates how to use Microsoft 365 Copilot to quickly gene
   > Replace the text within brackets with your specific choice.
 
 
-**Next**: [Optional task 2](https://maquinl.github.io/CELA-Academy-Microsoft-Copilot-Experience/Instructions/Labs/Optional_Task_2_data_mine_large_document.html)
+**Next**: [Optional task 2](https://maquinl.github.io/CELA-Academy-Microsoft-Copilot-Experience/Instructions/Labs/Optional_Task_2_Data_mine_large_documnet.html)
 
 [Back to Index](https://maquinl.github.io/CELA-Academy-Microsoft-Copilot-Experience/)

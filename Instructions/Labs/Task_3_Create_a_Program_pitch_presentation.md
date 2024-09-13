@@ -52,7 +52,7 @@ Give me specific examples from this presentation on how I can improve it for bet
 
 By exploring these advanced features, you can create more engaging and professional presentations while learning how to continuously iterate and improve your designs using Copilot’s intelligent recommendations.
 
-**Next**: [Optional Task 1](https://maquinl.github.io/CELA-Academy-Microsoft-Copilot-Experience/Instructions/Labs/Optional_task_1_Create_an_image.html) | [Optional task 2](https://maquinl.github.io/CELA-Academy-Microsoft-Copilot-Experience/Instructions/Labs/Optional_Task_2_data_mine_large_document.html)
+**Next**: [Optional Task 1](https://maquinl.github.io/CELA-Academy-Microsoft-Copilot-Experience/Instructions/Labs/Optional_Task_1_Create_an_image.html) | [Optional task 2](https://maquinl.github.io/CELA-Academy-Microsoft-Copilot-Experience/Instructions/Labs/Optional_Task_2_Data_mine_large_documnet.html)
 
 [Back to Index](https://maquinl.github.io/CELA-Academy-Microsoft-Copilot-Experience/)
 
