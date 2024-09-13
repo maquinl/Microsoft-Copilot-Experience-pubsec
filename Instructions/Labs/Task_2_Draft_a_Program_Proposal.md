@@ -50,5 +50,6 @@ Improve the executive summary to make it more concise and impactful.
 
 This explanation emphasizes how iterative revision helps refine content through a series of thoughtful adjustments, leading to more persuasive and impactful results.
 
-[Back to Index](https://maquinl.github.io/CELA-Academy-Microsoft-Copilot-Experience/)
+**Next**: [Task 3](https://maquinl.github.io/CELA-Academy-Microsoft-Copilot-Experience/Instructions/Labs/Task_3_Create_a_Program_pitch_presentation.html)
 
+[Back to Index](https://maquinl.github.io/CELA-Academy-Microsoft-Copilot-Experience/) 
