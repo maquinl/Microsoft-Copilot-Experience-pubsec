@@ -24,7 +24,7 @@ This optional task demonstrates how to use Microsoft 365 Copilot to quickly gene
         Create a simple and modern logo for our new program named [program name], targeting [target audience/industry]. The logo should convey qualities such as [desired qualities, e.g., innovation, reliability, inclusivity]. It should be versatile for use on digital platforms and print materials. 
         ```
         > [!NOTE]
-        > Replace the text within brackets with your specific choice (e.g., replace `[App/Service Name]` with `ContosoFit` and `[target audience/industry]` with `fitness enthusiasts/health and wellness`).
+        > Replace the text within brackets with your specific choice.
 
     1. Optionally, you can save one of the four image outputs by selecting the image of your choice and then selecting the **ellipses** (three dots) > **Download**.
 
@@ -37,5 +37,7 @@ This optional task demonstrates how to use Microsoft 365 Copilot to quickly gene
         ```text
         Generate a catchy marketing slogan for our new program [prgorame name] that highlights its unique value proposition and appeals to [target audience].
         ```
-     > [!NOTE]
-     > Replace the text within brackets with your specific choice.
+    > [!NOTE]
+    > Replace the text within brackets with your specific choice.
+
+[Back to Index](https://maquinl.github.io/CELA-Academy-Microsoft-Copilot-Experience/)

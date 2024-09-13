@@ -30,4 +30,4 @@ This optional task demonstrates how to use Microsoft 365 Copilot in Word to effi
     
 1. Select **Send**.
 
-[Back to Index](https://microsoftlearning.github.io/MS-4012-Microsoft-Copilot-Web-Based-Interactive-Experience-for-Executives/)
+[Back to Index](https://maquinl.github.io/CELA-Academy-Microsoft-Copilot-Experience/)
