@@ -1,5 +1,5 @@
 ---
-lab:
+task:
     title: 'Task 3: Create a Program Pitch Presentation'
 ---
 

@@ -22,8 +22,10 @@ Hyperlinks to each of the demos are listed below.
 
 ## Taks
 
-{% assign demos = site.pages | where_exp:"page", "page.url contains '/Instructions/Labs'" %}
+{% assign tasks = site.pages | where_exp:"page", "page.url contains '/Instructions/Labs'" %}
+
 | Task |
 | --- |
-{% for activity in labs  %}| [{{ activity.lab.title }}]({{ site.github.url }}{{ activity.url }}) |
+{% for activity in tasks %}
+| [{{ activity.task.title }}]({{ site.github.url }}{{ activity.url }}) |
 {% endfor %}

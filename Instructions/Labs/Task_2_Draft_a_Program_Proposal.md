@@ -1,5 +1,5 @@
 ---
-lab:
+task:
     title: 'Task 2: Draft a Program Proposal'
 ---
 

@@ -1,5 +1,5 @@
 ---
-lab:
+task:
     title: 'Task 1: Research Program Ideas'
 ---
 
