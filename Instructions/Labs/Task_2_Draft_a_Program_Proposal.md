@@ -3,7 +3,7 @@ task:
     title: 'Task 2: Draft a Program Proposal'
 ---
 
-# Task 1: Draft a Program Proposal
+# Task 2: Draft a Program Proposal
 
 Based on your research, use Copilot in Word to draft a comprehensive proposal for your new TEALS initiative. The proposal should include the program’s objectives, target audience, expected outcomes, and key strategies for success.
 
