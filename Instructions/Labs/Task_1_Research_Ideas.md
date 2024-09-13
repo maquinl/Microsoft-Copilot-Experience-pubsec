@@ -44,4 +44,4 @@ Based on this impact, what partnerships could TEALS pursue to sustain and scale 
 
 By using a CoT prompt, you encourage deeper engagement with the subject matter, leading to more thoughtful and well-rounded answers. This approach fosters a logical progression of ideas, making it easier to explore complex scenarios and arrive at actionable insights.
 
-[Back to Index](https://microsoftlearning.github.io/CELA-Academy-Microsoft-Copilot-Experience/)
+[Back to Index](https://maquinl.github.io/CELA-Academy-Microsoft-Copilot-Experience/)
