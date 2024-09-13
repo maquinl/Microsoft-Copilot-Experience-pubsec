@@ -30,17 +30,17 @@ This optional task demonstrates how to use Microsoft 365 Copilot to quickly gene
 
 - **Generate a Marketing Slogan**:
 
-    With the mission of your new program in mind, use the following prompt to generate a marketing slogan that captures its purpose and resonates with the target audience::
+    With the mission of your new program in mind, use the following prompt to generate a marketing slogan that captures its purpose and resonates with the target audience:
 
     **Sample Prompt**
 
-        ```text
-        Generate a catchy marketing slogan for our new program [prgorame name] that highlights its unique value proposition and appeals to [target audience].
-        ```
-  > [!NOTE]
-  > Replace the text within brackets with your specific choice.
+    ```text
+    Generate a catchy marketing slogan for our new program [program name] that highlights its unique value proposition and appeals to [target audience].
+    ```
+    > [!NOTE]
+    > Replace the text within brackets with your specific choice.
 
 
-**Next**: [Optional task 2](https://maquinl.github.io/CELA-Academy-Microsoft-Copilot-Experience/Instructions/Labs/Optional_Task_2_Data_mine_large_documnet.html)
+**Next**: [Optional task 2](https://maquinl.github.io/CELA-Academy-Microsoft-Copilot-Experience/Instructions/Labs/Task_3_Option_Data_mine_large_documnet.html)
 
 [Back to Index](https://maquinl.github.io/CELA-Academy-Microsoft-Copilot-Experience/)
