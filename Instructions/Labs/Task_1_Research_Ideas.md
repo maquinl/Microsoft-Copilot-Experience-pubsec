@@ -1,6 +1,6 @@
 ---
-Layout: default
-title: 'Task 1: Research Program Ideas'
+lab:
+    title: 'Task 1: Research Program Ideas'
 ---
 
 # Task 1: Research Program Ideas

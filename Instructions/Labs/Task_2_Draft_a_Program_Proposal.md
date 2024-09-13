@@ -1,6 +1,6 @@
 ---
-Layout: default
-title: 'Task 2: Draft a Program Proposal'
+lab:
+    title: 'Task 2: Draft a Program Proposal'
 ---
 
 # Task 1: Draft a Program Proposal
