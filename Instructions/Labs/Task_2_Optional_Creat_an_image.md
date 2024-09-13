@@ -37,7 +37,7 @@ This optional task demonstrates how to use Microsoft 365 Copilot to quickly gene
         ```text
         Generate a catchy marketing slogan for our new program [prgorame name] that highlights its unique value proposition and appeals to [target audience].
         ```
-    > [!NOTE]
-    > Replace the text within brackets with your specific choice.
+  > [!NOTE]
+  > Replace the text within brackets with your specific choice.
 
 [Back to Index](https://maquinl.github.io/CELA-Academy-Microsoft-Copilot-Experience/)
