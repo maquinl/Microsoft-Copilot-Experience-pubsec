@@ -2,6 +2,7 @@
 task:
     title: 'Task 3: Create a Program Pitch Presentation'
 ---
+
 # Task 3: Create a Program Pitch Presentation
 
 Using the Word document created in Task 2, leverage Copilot in PowerPoint to develop a professional pitch deck. The presentation should be designed to communicate the vision, goals, and benefits of the proposed program to potential stakeholders or sponsors.

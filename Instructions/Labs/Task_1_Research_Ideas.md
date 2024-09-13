@@ -5,7 +5,7 @@ task:
 
 # Task 1: Research Program Ideas
 
-Using Microsoft 365 Business Chat, research innovative educational programs or initiatives outside of TEALS. The goal is to find inspiration and explore successful elements that could inform the design of a new TEALS program. Consider emerging trends in technology education and literacy, as well as challenges faced by underserved communities.
+Using Business Chat in the Microsoft 365 App (Microsoft.com/Copilot), research innovative educational programs or initiatives outside of TEALS. The goal is to find inspiration and explore successful elements that could inform the design of a new TEALS program. Consider emerging trends in technology education and literacy, as well as challenges faced by underserved communities.
 
 ### Example Prompts
 

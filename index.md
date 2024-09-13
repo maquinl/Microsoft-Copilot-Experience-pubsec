@@ -34,4 +34,5 @@ Using the Word document created in Task 2, leverage Copilot in PowerPoint to dev
 
 | tasks |
 | --- |
-{% for activity in tasks %}| [{{ activity.task.title }}]({{ site.github.url }}{{ activity.url }}) | {% endfor %}
+{% for activity in tasks %}| [{{ activity.task.title }}]({{ site.github.url }}{{ activity.url }}) |
+{% endfor %}
