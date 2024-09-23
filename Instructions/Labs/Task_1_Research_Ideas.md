@@ -27,7 +27,7 @@ Using Business Chat in the Microsoft 365 App (Microsoft.com/Copilot), research i
 > - Save the insights into a Word document titled “TEALS Program Research.”
 > - The example prompts are just that, an example. Use them as a guide to build your own prompts
 
-### Chain of Thought Prompoting (CoT)
+### Chain of Thought Prompting (CoT)
 
 A CoT prompt is a series of connected questions or statements designed to guide a person or AI through a step-by-step reasoning process. It helps break down complex topics by prompting the thinker to address one aspect at a time, building on previous responses to develop a deeper understanding or more comprehensive solution. Each step in the chain encourages reflection or analysis, with each question leading logically to the next, facilitating structured problem-solving or exploration.
 
