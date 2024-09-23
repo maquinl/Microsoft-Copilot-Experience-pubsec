@@ -21,7 +21,7 @@ Based on your research, use Copilot in Word to draft a comprehensive proposal fo
         Now, refine the proposal by including concrete examples from other successful programs in underserved communities. How can TEALS differentiate itself?
         ```
 
-- **Step 2**: Cross-referencing
+- **Step 3**: Cross-referencing
 
     ```text
     Incorporate key stats and insights from [/TEALS Program Research.docx] into the proposal. Use specific data points from pages 3 and 4 of the document.”

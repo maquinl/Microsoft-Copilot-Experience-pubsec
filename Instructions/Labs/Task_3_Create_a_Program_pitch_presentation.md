@@ -41,18 +41,18 @@ In more advanced use cases, Copilot offers powerful tools to optimize and enhanc
 For example, Copilot can suggest alternative slide layouts based on the content provided, as well as automatically format presentations. You can experiment with Copilot’s suggestions by asking for recommendations on the best order to present your information for maximum impact:
 
  ```text
- What’s the best order to present this information for maximum impact?"
+ What’s the best order to present this information for maximum impact?
  ```
 
 You should also explore Copilot’s ability to refine and improve your presentation through iteration. This could involve revisiting Copilot’s suggestions with a more specific focus, such as:
 
  ```text
-Give me specific examples from this presentation on how I can improve it for better engagement."
+Give me specific examples from this presentation on how I can improve it for better engagement.
 ```
 
 By exploring these advanced features, you can create more engaging and professional presentations while learning how to continuously iterate and improve your designs using Copilot’s intelligent recommendations.
 
-**Next**: [Optional Task 1](https://maquinl.github.io/CELA-Academy-Microsoft-Copilot-Experience/Instructions/Labs/Optional_Task_1_Create_an_image.html) | [Optional task 2](https://maquinl.github.io/CELA-Academy-Microsoft-Copilot-Experience/Instructions/Labs/Optional_Task_2_Data_mine_large_documnet.html)
+**Next**: [Optional Task 1](https://maquinl.github.io/CELA-Academy-Microsoft-Copilot-Experience/Instructions/Labs/Optional_Task_1_Create_an_image.html) | [Optional task 2](https://maquinl.github.io/CELA-Academy-Microsoft-Copilot-Experience/Instructions/Labs/Optional_Task_2_Data_mine_large_document.html)
 
 [Back to Index](https://maquinl.github.io/CELA-Academy-Microsoft-Copilot-Experience/)
 
