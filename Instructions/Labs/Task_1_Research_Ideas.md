@@ -25,6 +25,18 @@ Using Business Chat in the Microsoft 365 App (Microsoft.com/Copilot), research i
 > - Save the insights into a Word document titled “TEALS Program Research.”
 > - The example prompts are just that, an example. Use them as a guide to build your own prompts
 
+### Single-Shot Prompting 
+
+Single-shot prompting is a technique where a single, well-crafted prompt is used to generate a comprehensive response from the AI. This method works best when you need a quick, broad overview or when the problem or question is relatively straightforward. It allows the AI to generate a full response in one go, without the need for iterative questions.
+
+For example
+
+- **Prompt:** 
+    ```text
+    Can you provide a comprehensive overview of current challenges in technology education for underserved communities, and suggest program ideas that could address these challenges?
+    ```
+In this method, you rely on the AI's ability to provide a detailed and holistic response based on the single prompt. This approach is more efficient when you're seeking a broad summary or a quick solution, but it may not allow for the same depth of exploration as Chain of Thought (CoT) prompting.
+
 ### Chain of Thought Prompting
 
 A CoT prompt is a series of connected questions or statements designed to guide a person or AI through a step-by-step reasoning process. It helps break down complex topics by prompting the thinker to address one aspect at a time, building on previous responses to develop a deeper understanding or more comprehensive solution. Each step in the chain encourages reflection or analysis, with each question leading logically to the next, facilitating structured problem-solving or exploration.
@@ -44,18 +56,6 @@ For example
     Considering the program elements we've discussed, which single program would be the most impactful and feasible for my team to pursue? Please prioritize based on scalability and potential long-term benefits.
     ```
 By using a CoT prompt, you encourage deeper engagement with the subject matter, leading to more thoughtful and well-rounded answers. This approach fosters a logical progression of ideas, making it easier to explore complex scenarios and arrive at actionable insights.
-
-### Single-Shot Prompting 
-
-Single-shot prompting is a technique where a single, well-crafted prompt is used to generate a comprehensive response from the AI. This method works best when you need a quick, broad overview or when the problem or question is relatively straightforward. It allows the AI to generate a full response in one go, without the need for iterative questions.
-
-For example
-
-- **Prompt:** 
-    ```text
-    Can you provide a comprehensive overview of current challenges in technology education for underserved communities, and suggest program ideas that could address these challenges?
-    ```
-In this method, you rely on the AI's ability to provide a detailed and holistic response based on the single prompt. This approach is more efficient when you're seeking a broad summary or a quick solution, but it may not allow for the same depth of exploration as Chain of Thought (CoT) prompting.
 
 **Next**: [Task 2](https://maquinl.github.io/CELA-Academy-Microsoft-Copilot-Experience/Instructions/Labs/Task_2_Draft_a_Program_Proposal.html)
 
