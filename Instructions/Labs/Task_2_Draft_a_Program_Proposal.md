@@ -5,26 +5,37 @@ task:
 
 # Task 2: Draft a Program Proposal
 
-Based on your research, use Copilot in Word to draft a comprehensive proposal for your new TEALS initiative. The proposal should include the program’s objectives, target audience, expected outcomes, and key strategies for success.
+Based on your research using BizChat, use Copilot in Word to draft a comprehensive proposal for your new TEALS initiative. The proposal should include the program’s objectives, target audience, expected outcomes, and key strategies for success.
 
-### Example Prompts
+### Steps:
 
-- **Prompt 1**: Initial Prompt
+1. Open the program research document that you saved to your OneDrive account in Task 1. Copy the URL of the document by selecting the Share button in the upper-right corner, above the ribbon and selecting Copy Link from the drop-down menu that appears.
+
+    ![Screenshot showing the Share menu and the Copy Link option highlighted.](../Labs/Media/share-menu-with-copy-link.png)
+
+1. Launch Microsoft Word from your browser ([word.new](https://word.new)) or use the desktop application.
+
+1. Open a new blank document.
+
+1. Select the Copilot logo that appears at the top of the blank document to open Draft with Copilot.
+
+    ![Screenshot showing draft with Copilot in Word.](../Labs/Media/draft-with-copilot.png)
+
+1. Enter the following prompt into the prompt field:
 
     ```text
-    Based on the research in [/TEALS Program Research.docx], draft a program proposal for TEALS. Focus first on the program’s core objectives.
+    Based on the research in [Link to TEALS Program Research.docx], draft a comprehensive program proposal for this new initiative. The proposal should include an executive summary of the program’s objectives, a detailed breakdown of target audiences, expected outcomes, key strategies for success, and potential challenges with recommended responses. Ensure the proposal is well-structured and clearly formatted to support decision-making and stakeholder alignment.
     ```
+    > [!NOTE] 
+    > The example prompts are just that, an example. Use them as a guide to build your own prompts
 
-- **Prompt 2**: Follow-up Prompt
+1. Select Generate. At this point, Copilot in Word extracts the information from your Research document and drafts a proposal.
 
-    ```text
-    Now, refine the proposal by including concrete examples from other successful programs in underserved communities. How can TEALS differentiate itself?
-    ```
+1. Review the draft Copilot in Word creates. If you think everything looks good, you can move onto the next Step. 
 
-> [!NOTE] 
-> - If the “TEALS Program Proposal” document does not display in the reference file list, share the document and copy the link into the prompt field within Copilot in Word.
-> - Save the PowerPoint file as “TEALS Program Pitch” onto your OneDrive account.
-> - The example prompts are just that, an example. Use them as a guide to build your own prompts
+    However, if you'd like refine the document further, explore the information in the **Iterate and revise** section below.
+
+1. Save the file to your OneDrive account with the following file name: **TEALS Program Proposal.docx**. The next exercise uses this document.
 
 
 ### Iterate and Revise
