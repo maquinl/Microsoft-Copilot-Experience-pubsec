@@ -56,7 +56,7 @@ Add 2 slides detailing potential challenges this program may face, and include a
  ```
 By exploring these advanced features, you can create more engaging and professional presentations while learning how to continuously iterate and improve your designs using Copilot’s intelligent recommendations.
 
-**Next**: [Optional Task 1](https://maquinl.github.io/CELA-Academy-Microsoft-Copilot-Experience/Instructions/Labs/Optional_Task_1_Create_an_image.html) | [Optional task 2](https://maquinl.github.io/CELA-Academy-Microsoft-Copilot-Experience/Instructions/Labs/Optional_Task_2_Data_mine_large_document.html)
+**Next**: [Task 4](https://maquinl.github.io/CELA-Academy-Microsoft-Copilot-Experience/Instructions/Labs/Task_4_Collaborate_Using_Pages.html)
 
-[Back to Index](https://maquinl.github.io/CELA-Academy-Microsoft-Copilot-Experience/)
+[Back to Index](https://maquinl.github.io/CELA-Academy-Microsoft-Copilot-Experience/) 
 
