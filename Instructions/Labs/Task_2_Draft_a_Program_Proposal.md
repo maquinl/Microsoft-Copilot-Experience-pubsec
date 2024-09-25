@@ -38,7 +38,7 @@ Based on your research using BizChat, use Copilot in Word to draft a comprehensi
 
 1. Save the file to your OneDrive account with the following file name: **Giving Campaign Proposal.docx**. The next exercise uses this document.
 
-### Iterate and Revise
+## Iterate and Revise
 
 The iterative and revision process involves refining and improving upon an initial draft or concept through multiple rounds of feedback and adjustment. This approach helps to enhance the quality, clarity, and effectiveness of the final output by identifying areas for improvement and making targeted revisions.
 

@@ -28,7 +28,7 @@ Using Business Chat in the Microsoft 365 App (Microsoft.com/Copilot), research g
 
 5. Once you are finished researching your new giving campaign idea, save your program idea insights to the Word file you created earlier, titled **Copilot Research.docx**, for use in the next task.
 
-### Single-Shot Prompting 
+## Single-Shot Prompting 
 
 Single-shot prompting is a technique where a single, well-crafted prompt is used to generate a comprehensive response from the AI. This method works best when you need a quick, broad overview or when the problem or question is relatively straightforward. It allows the AI to generate a full response in one go, without the need for iterative questions.
 
@@ -39,7 +39,7 @@ Can you provide an overview of recent trends in corporate giving campaigns that 
 ```
 In this method, you rely on the AI's ability to provide a detailed and holistic response based on the single prompt. This approach is more efficient when you're seeking a broad summary or a quick solution, but it may not allow for the same depth of exploration as Chain of Thought (CoT) prompting.
 
-### Role Prompting (Persona-Based Prompting)
+## Role Prompting (Persona-Based Prompting)
 
 Role prompting, or persona-based prompting, involves asking the AI to take on a specific role or perspective to tailor its responses. By assigning the AI a particular identity—such as an employee, a team lead, or an industry expert—you can generate responses that are more aligned with the responsibilities, goals, and mindset of that persona. This technique helps guide the AI’s responses toward more contextually relevant insights that reflect the challenges and priorities of that role.
 
@@ -59,7 +59,7 @@ You are an employee at a large organization who is passionate about improving ed
 
 Using role prompting in this way allows you to think critically about your role within the organization and develop a campaign that aligns with both internal goals and external impact. It adds a personal and professional perspective, helping you tailor the campaign for maximum effectiveness.
 
-### Chain of Thought Prompting
+## Chain of Thought Prompting
 
 A CoT prompt is a series of connected questions or statements designed to guide a person or AI through a step-by-step reasoning process. It helps break down complex topics by prompting the thinker to address one aspect at a time, building on previous responses to develop a deeper understanding or more comprehensive solution. Each step in the chain encourages reflection or analysis, with each question leading logically to the next, facilitating structured problem-solving or exploration.
 

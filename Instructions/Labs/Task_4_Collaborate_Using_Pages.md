@@ -3,7 +3,7 @@ task:
     title: 'Task 4: Collaborate Using Pages'
 ---
 
-### Task 4: Collaborate Using Pages 
+# Task 4: Collaborate Using Pages 
 
 In this task, you’ll explore the new **Pages** functionality, a dynamic, shareable space for collaboration and idea organization.
 

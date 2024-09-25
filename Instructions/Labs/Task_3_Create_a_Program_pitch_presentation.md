@@ -37,7 +37,7 @@ Using the Word document created in Task 2, leverage Copilot in PowerPoint to dev
 
 1. Once completed, you're free to review the slides and make any necessary updates. You can use the Designer tool to adjust the layouts. You can also add or remove slides and modify the content as needed to ensure the presentation aligns with your objectives. For more prompts to try out, see the next section below.
 
-### More Prompts to Enhance Your Presentation with Copilot
+## More Prompts to Enhance Your Presentation with Copilot
 
 Copilot in PowerPoint offers powerful tools to optimize and enhance presentations. You can leverage these features to improve the visual and structural elements of your slides, ensuring that your content is presented in the most effective way.
 
