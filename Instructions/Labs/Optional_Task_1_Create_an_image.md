@@ -21,7 +21,7 @@ This optional task demonstrates how to use Microsoft 365 Copilot to quickly gene
         **Sample Prompt**
 
         ```text
-        Create a simple and modern logo for our new program named [program name], targeting [target audience/industry]. The logo should convey qualities such as [desired qualities, e.g., innovation, reliability, inclusivity]. It should be versatile for use on digital platforms and print materials. 
+        Create a simple and modern logo for our new giving campaign named [campaign name], targeting [target audience/community]. The logo should convey qualities such as [desired qualities, e.g., impact, compassion, inclusivity]. It should be versatile for use on digital platforms and print materials.
         ```
         > [!NOTE]
         > Replace the text within brackets with your specific choice.
@@ -30,12 +30,12 @@ This optional task demonstrates how to use Microsoft 365 Copilot to quickly gene
 
 - **Generate a Marketing Slogan**:
 
-    With the mission of your new program in mind, use the following prompt to generate a marketing slogan that captures its purpose and resonates with the target audience:
+    With the mission of your new giving campaign in mind, use the following prompt to generate a marketing slogan that captures its purpose and resonates with the target audience:
 
     **Sample Prompt**
 
     ```text
-    Generate a catchy marketing slogan for our new program [program name] that highlights its unique value proposition and appeals to [target audience].
+    Generate a catchy marketing slogan for our new giving campaign [campaign name] that highlights its unique value proposition and appeals to [target audience/community].
     ```
     > [!NOTE]
     > Replace the text within brackets with your specific choice.

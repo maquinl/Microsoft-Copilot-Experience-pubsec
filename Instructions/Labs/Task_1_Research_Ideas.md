@@ -5,7 +5,7 @@ task:
 
 # Task 1: Research Program Ideas
 
-Using Business Chat in the Microsoft 365 App (Microsoft.com/Copilot), research innovative giving campaigns and philanthropic initiatives that align with corporate social responsibility goals. Focus on identifying successful strategies and emerging trends, with the goal of brainstorming and developing at least one new giving campaign idea inspired by your findings. This task is about generating an idea to build on in the next steps.
+Using Business Chat in the Microsoft 365 App (Microsoft.com/Copilot), research giving campaign ideas and philanthropic initiatives that align with corporate social responsibility goals. Focus on identifying successful strategies and emerging trends, with the goal of brainstorming and developing at least one new giving campaign idea inspired by your findings. This task is about generating an idea to build on in the next steps.
 
 > [!NOTE] 
 > While we provide sample prompts, feel free to personalize them in your own style. Be creative and experiment. If Copilot doesn't give the desired output, refine your prompt and try again. Enjoy the process!

@@ -16,19 +16,19 @@ You will perform three tasks:
 
 ### [Task 1: Research Program Ideas](https://maquinl.github.io/CELA-Academy-Microsoft-Copilot-Experience/Instructions/Labs/Task_1_Research_Ideas.html)
 
-Using Business Chat in the Microsoft 365 App (Microsoft.com/Copilot), research innovative giving campaigns and philanthropic initiatives that align with corporate social responsibility goals. Focus on identifying successful strategies and emerging trends, with the goal of brainstorming and developing at least one new giving campaign idea inspired by your findings. This task is about generating an idea to build on in the next steps.
+Using Business Chat in the Microsoft 365 App (Microsoft.com/Copilot), research giving campaign ideas and philanthropic initiatives that align with corporate social responsibility goals. Focus on identifying successful strategies and emerging trends, with the goal of brainstorming and developing at least one new giving campaign idea inspired by your findings. This task is about generating an idea to build on in the next steps.
 
 ### [Task 2: Draft a Program Proposal](https://maquinl.github.io/CELA-Academy-Microsoft-Copilot-Experience/Instructions/Labs/Task_2_Draft_a_Program_Proposal.html)
 
-Based on your research, use Copilot in Word to draft a comprehensive proposal for your new TEALS initiative. The proposal should include the program’s objectives, target audience, expected outcomes, and key strategies for success.
+Based on your research using BizChat, use Copilot in Word to draft a comprehensive proposal for your new giving campaign idea. The proposal should include a summary of the campaign’s objective, a detailed breakdown of expected outcomes, key strategies for success, and potential challenges.
 
 ### [Task 3: Create a Program Pitch Presentation](https://maquinl.github.io/CELA-Academy-Microsoft-Copilot-Experience/Instructions/Labs/Task_3_Create_a_Program_pitch_presentation.html)
 
-Using the Word document created in Task 2, leverage Copilot in PowerPoint to develop a professional pitch deck. The presentation should be designed to communicate the vision, goals, and benefits of the proposed program to potential stakeholders or sponsors.
+Using the Word document created in Task 2, leverage Copilot in PowerPoint to develop a pitch deck for your campaign idea. The presentation should be designed to communicate the vision, goals, and benefits of the proposed giving campaign to potential stakeholders or sponsors.
 
 ### [Task 4: Collaborate Using Pages](https://maquinl.github.io/CELA-Academy-Microsoft-Copilot-Experience/Instructions/Labs/Task_4_Collaborate_Using_Pages.html)
 
-Experience the new “Pages” functionality, which allows you to collaborate and organize ideas in a dynamic, shareable space. Pages act much like Loop components, making it easy to capture and refine content directly within your chat.
+Experience the new “Pages” functionality, which allows you to collaborate and organize ideas in a dynamic, shareable space. 
 
 ### [Optional Task 1: Generate Marketing Ideas](https://maquinl.github.io/CELA-Academy-Microsoft-Copilot-Experience/Instructions/Labs/Optional_Task_1_Create_an_image.html)
 
