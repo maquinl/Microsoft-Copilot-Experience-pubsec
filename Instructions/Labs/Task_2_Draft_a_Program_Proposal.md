@@ -24,7 +24,7 @@ Based on your research using BizChat, use Copilot in Word to draft a comprehensi
 1. Enter the following prompt into the prompt field:
 
     ```text
-    Based on the research in [Link to TEALS Program Research.docx], draft a comprehensive program proposal for this new initiative. The proposal should include an executive summary of the program’s objectives, a detailed breakdown of target audiences, expected outcomes, key strategies for success, and potential challenges with recommended responses. Ensure the proposal is well-structured and clearly formatted to support decision-making and stakeholder alignment.
+    Based on the research in [Link to Copilot Research.docx], draft a comprehensive program proposal for this new initiative. The proposal should include an executive summary of the program’s objectives, a detailed breakdown of target audiences, expected outcomes, key strategies for success, and potential challenges with recommended responses. Ensure the proposal is well-structured and clearly formatted to support decision-making and stakeholder alignment.
     ```
     > [!NOTE] 
     > The example prompts are just that, an example. Use them as a guide to build your own prompts
@@ -35,7 +35,7 @@ Based on your research using BizChat, use Copilot in Word to draft a comprehensi
 
     However, if you'd like refine the document further, explore the information in the **Iterate and revise** section below.
 
-1. Save the file to your OneDrive account with the following file name: **TEALS Program Proposal.docx**. The next exercise uses this document.
+1. Save the file to your OneDrive account with the following file name: **Program Proposal.docx**. The next exercise uses this document.
 
 
 ### Iterate and Revise

@@ -6,7 +6,7 @@ layout: home
 
 ## Description
 
-In this interactive experience you will Design a new initiative for TEALS (Technology Education and Literacy in Schools) using Microsoft 365 Copilot to streamline research, proposal drafting, and presentation creation.
+In this interactive experience you will Design a new initiative/Program for TEALS using Microsoft 365 Copilot to streamline research, proposal drafting, and presentation creation.
 
 - You will have 25 minutes to complete the objective.
 - In your browser, enter “Word.new” and then save a new document as “Copilot Research” to your OneDrive account.

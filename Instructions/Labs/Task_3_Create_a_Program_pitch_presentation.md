@@ -19,12 +19,12 @@ Using the Word document created in Task 2, leverage Copilot in PowerPoint to dev
 
 1. In the Copilot pane that appears, several predefined prompts are available for you to choose from. Select the Create presentation from file prompt.
 
-1. Copy and paste the **TEALS Program proposal.docx** link after the words "Create a presentation from" and select **Send**.
+1. Copy and paste the **Program proposal.docx** link after the words "Create a presentation from" and select **Send**.
 
     the full prompt should looke like:
 
     ```text 
-    Create a presentation from [Link to TEALS Program Rproposal.docx]
+    Create a presentation from [Link to Program Rproposal.docx]
     ```
 
 1. Copilot will start to create a slide presentation based on the Program Proposal document. In doing so, it displays the outline of the presentation and a list of features included in the presentation. These features may include speaker notes, images, layouts to organize slides, and a General sensitivity label.

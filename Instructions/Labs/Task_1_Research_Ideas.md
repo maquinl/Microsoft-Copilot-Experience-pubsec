@@ -18,7 +18,7 @@ Using Business Chat in the Microsoft 365 App (Microsoft.com/Copilot), research i
     
 4. Explore the different prompting techniques below to help you use Business Chat.
 
-5. Once you are finished researching your new program idea, save your program idea insights to the Word file you created earlier, titled **TEALS Program Research.docx**, for use in the next task.
+5. Once you are finished researching your new program idea, save your program idea insights to the Word file you created earlier, titled **Copilot Research.docx**, for use in the next task.
 
 > [!NOTE] 
 > - Focus on identifying gaps or new opportunities this program could capitalize on.
