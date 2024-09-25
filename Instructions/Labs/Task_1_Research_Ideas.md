@@ -9,15 +9,15 @@ Using Business Chat in the Microsoft 365 App (Microsoft.com/Copilot), research i
 
 ### Example Prompts
 
-- **Step 1:** 
+- **Prompt 1:** 
     ```text
     Can you help me identify gaps in existing technology education programs, specifically in underserved areas? I want to focus on challenges students face in accessing tech resources.
     ```
-- **Step 2:** 
+- **Prompt 2:** 
     ```text
     Now, based on those gaps, can you suggest actionable program elements for TEALS that address these specific challenges?
     ```
-- **Step 3:** 
+- **Prompt 3:** 
     ```text
     What potential roadblocks could TEALS face when implementing these ideas, and how can we mitigate them?
     ```

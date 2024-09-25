@@ -9,22 +9,16 @@ Based on your research, use Copilot in Word to draft a comprehensive proposal fo
 
 ### Example Prompts
 
-- **Step 1**: Initial Prompt
+- **Prompt 1**: Initial Prompt
 
     ```text
     Based on the research in [/TEALS Program Research.docx], draft a program proposal for TEALS. Focus first on the program’s core objectives.
     ```
 
-- **Step 2**: Follow-up Prompt
-
-        ```text
-        Now, refine the proposal by including concrete examples from other successful programs in underserved communities. How can TEALS differentiate itself?
-        ```
-
-- **Step 3**: Cross-referencing
+- **Prompt 2**: Follow-up Prompt
 
     ```text
-    Incorporate key stats and insights from [/TEALS Program Research.docx] into the proposal. Use specific data points from pages 3 and 4 of the document.”
+    Now, refine the proposal by including concrete examples from other successful programs in underserved communities. How can TEALS differentiate itself?
     ```
 
 > [!NOTE] 

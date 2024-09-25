@@ -9,22 +9,22 @@ Using the Word document created in Task 2, leverage Copilot in PowerPoint to dev
 
 ### Example Prompts
 
-- **Step 1**: Initial Prompt
+- **Prompt 1**: Initial Prompt
     ```text
     Create a PowerPoint presentation based on the document [/TEALS Program Proposal.docx]. Start with 3 slides that summarize the program objectives, the gap TEALS fills, and the expected outcomes.
     ```
 
-- **Step 2**: Follow-up Prompt
+- **Prompt 2**: Follow-up Prompt
     ```text 
     Now, add 2 slides detailing potential challenges TEALS might face, and include a slide that outlines key strategies to mitigate those challenges.
     ```
 
-- **Step 3**: Follow-up Prompt
+- **Prompt 3**: Follow-up Prompt
     ```text
     For each slide, can you suggest a visual format (e.g., chart, infographic, bullet points) that best communicates the information?
     ```
 
-- **Step 4**: Design prompt 
+- **Prompt 4**: Design prompt 
     ```text
     Adjust the design of the slides to emphasize the key points. Add icons or relevant imagery to enhance clarity.
     ```
