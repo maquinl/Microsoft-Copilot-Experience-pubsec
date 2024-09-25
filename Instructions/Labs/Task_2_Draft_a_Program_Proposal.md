@@ -5,11 +5,14 @@ task:
 
 # Task 2: Draft a Program Proposal
 
-Based on your research using BizChat, use Copilot in Word to draft a comprehensive proposal for your new TEALS initiative. The proposal should include the program’s objectives, target audience, expected outcomes, and key strategies for success.
+Based on your research using BizChat, use Copilot in Word to draft a comprehensive proposal for your new giving campaign idea. The proposal should include a summary of the campaign’s objective, a detailed breakdown of expected outcomes, key strategies for success, and potential challenges.
+
+> [!NOTE] 
+> While we provide sample prompts, feel free to personalize them in your own style. Be creative and experiment. If Copilot doesn't give the desired output, refine your prompt and try again. Enjoy the process!
 
 ### Steps:
 
-1. Open the program research document that you saved to your OneDrive account in Task 1. Copy the URL of the document by selecting the Share button in the upper-right corner, above the ribbon and selecting Copy Link from the drop-down menu that appears.
+1. Open the copilot research document that you saved to your OneDrive account in Task 1. Copy the URL of the document by selecting the Share button in the upper-right corner, above the ribbon and selecting Copy Link from the drop-down menu that appears.
 
     ![Screenshot showing the Share menu and the Copy Link option highlighted.](../Labs/Media/share-menu-with-copy-link.png)
 
@@ -17,26 +20,23 @@ Based on your research using BizChat, use Copilot in Word to draft a comprehensi
 
 1. Open a new blank document.
 
-1. Select the Copilot logo that appears at the top of the blank document to open Draft with Copilot.
+1. Select the Copilot logo that appears at the top of the blank document to open **Draft with Copilot**.
 
     ![Screenshot showing draft with Copilot in Word.](../Labs/Media/draft-with-copilot.png)
 
 1. Enter the following prompt into the prompt field:
 
     ```text
-    Based on the research in [Link to Copilot Research.docx], draft a comprehensive program proposal for this new initiative. The proposal should include an executive summary of the program’s objectives, a detailed breakdown of target audiences, expected outcomes, key strategies for success, and potential challenges with recommended responses. Ensure the proposal is well-structured and clearly formatted to support decision-making and stakeholder alignment.
+    Based on the research in [Link to Copilot Research.docx], draft a comprehensive proposal for this new giving campaign. The proposal should include a summary of the campaign’s objective, a detailed breakdown of expected outcomes, key strategies for success, and potential challenges. Ensure the proposal is well-structured and clearly formatted to support decision-making and stakeholder alignment.
     ```
-    > [!NOTE] 
-    > The example prompts are just that, an example. Use them as a guide to build your own prompts
 
-1. Select Generate. At this point, Copilot in Word extracts the information from your Research document and drafts a proposal.
+1. Select **Generate**. At this point, Copilot in Word extracts the information from your research document and drafts the proposal.
 
-1. Review the draft Copilot in Word creates. If you think everything looks good, you can move onto the next Step. 
+1. Review the draft that Copilot creates. If everything looks good, you can move onto the next step.
 
-    However, if you'd like refine the document further, explore the information in the **Iterate and revise** section below.
+    However, if you'd like to refine the document further, explore the information in the **Iterate and Revise** section below.
 
-1. Save the file to your OneDrive account with the following file name: **Program Proposal.docx**. The next exercise uses this document.
-
+1. Save the file to your OneDrive account with the following file name: **Giving Campaign Proposal.docx**. The next exercise uses this document.
 
 ### Iterate and Revise
 
@@ -50,10 +50,10 @@ Can you refine this proposal by making it more persuasive for potential sponsors
 After reviewing the updated version, you may further improve the document by focusing on specific sections, such as:
 
 ```text
-Improve the executive summary to make it more concise and impactful.
+Improve the summary to make it more concise and impactful.
 ```
 
-This explanation emphasizes how iterative revision helps refine content through a series of thoughtful adjustments, leading to more persuasive and impactful results.
+Experimenting with these prompts allows you to refine your content through thoughtful adjustments, ultimately creating more persuasive and impactful results
 
 **Next**: [Task 3](https://maquinl.github.io/CELA-Academy-Microsoft-Copilot-Experience/Instructions/Labs/Task_3_Create_a_Program_pitch_presentation.html)
 

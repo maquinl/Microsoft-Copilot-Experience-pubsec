@@ -15,12 +15,14 @@ For this task, you’ll be using the Work tab in Business Chat to experience the
 
 3. With BizChat open, ensure that the **Work tab** is selected:
 
+    ![Screenshot showing web tab in bizchat.](../Labs/Media/work-tab.png)
+
 4. Type the following prompt:
 
     ```text
-    Using [link to powerpoint] & [link to proposal] Can you help me summarize the key elements from my new program into a concise action plan, including next steps for implementation and key milestones?
+    What are the key steps we should take to launch a successful giving campaign within our company?
     ```
-5. Copilot will provide a structured response that you can add directly to a Page. Select the **Pages** Option beneith copilots responds
+5. Copilot will provide a structured response that you can add directly to a Page. Select the **Edit in Pages** Option beneith copilots responds
 
 **Next**: [Optional Task 1](https://maquinl.github.io/CELA-Academy-Microsoft-Copilot-Experience/Instructions/Labs/Optional_Task_1_Create_an_image.html) | [Optional task 2](https://maquinl.github.io/CELA-Academy-Microsoft-Copilot-Experience/Instructions/Labs/Optional_Task_2_Data_mine_large_document.html)
 
