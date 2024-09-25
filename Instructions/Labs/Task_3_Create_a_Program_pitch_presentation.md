@@ -7,36 +7,36 @@ task:
 
 Using the Word document created in Task 2, leverage Copilot in PowerPoint to develop a professional pitch deck. The presentation should be designed to communicate the vision, goals, and benefits of the proposed program to potential stakeholders or sponsors.
 
-### Example Prompts
+### Steps:
 
-- **Prompt 1**: Initial Prompt
-    ```text
-    Create a PowerPoint presentation based on the document [/TEALS Program Proposal.docx]. Start with 3 slides that summarize the program objectives, the gap TEALS fills, and the expected outcomes.
-    ```
+1. Open the program proposal document that you saved to your OneDrive account in Task 2. Copy the URL of the document by selecting the Share button in the upper-right corner, above the ribbon and selecting Copy Link from the drop-down menu that appears.
 
-- **Prompt 2**: Follow-up Prompt
+    ![Screenshot showing the Share menu and the Copy Link option highlighted.](../Labs/Media/share-menu-with-copy-link.png)
+
+1. Launch Microsoft PowerPoint from your browser ([PowerPoint.new](https://PowerPoint.new)) or use the desktop application.
+
+1. Open a new blank presentation.
+
+1. In the Copilot pane that appears, several predefined prompts are available for you to choose from. Select the Create presentation from file prompt.
+
+1. Copy and paste the **TEALS Program proposal.docx** link after the words "Create a presentation from" and select **Send**.
+
+    the full prompt should looke like:
+
     ```text 
-    Now, add 2 slides detailing potential challenges TEALS might face, and include a slide that outlines key strategies to mitigate those challenges.
+    Create a presentation from [Link to TEALS Program Rproposal.docx]
     ```
 
-- **Prompt 3**: Follow-up Prompt
-    ```text
-    For each slide, can you suggest a visual format (e.g., chart, infographic, bullet points) that best communicates the information?
-    ```
+1. Copilot will start to create a slide presentation based on the Program Proposal document. In doing so, it displays the outline of the presentation and a list of features included in the presentation. These features may include speaker notes, images, layouts to organize slides, and a General sensitivity label.
 
-- **Prompt 4**: Design prompt 
-    ```text
-    Adjust the design of the slides to emphasize the key points. Add icons or relevant imagery to enhance clarity.
-    ```
+    > [!NOTE] 
+    > It can take up to two minutes for the slides to fully generate. The time it takes to generate the slides depends on the complexity of the document and the number of slides that Copilot creates.
 
-> [!NOTE] 
-> - If the “TEALS Program Proposal” document does not display in the reference file list, share the document and copy the link into the prompt field within Copilot in PowerPoint.
-> - Save the PowerPoint file as “TEALS Program Pitch” onto your OneDrive account.
-> - The example prompts are just that, an example. Use them as a guide to build your own prompts
+1. Once completed, you're now free to review the slides and make any necessary updates. You can use the Designer tool to adjust the layouts. You can also add or remove slides, and modify the content as needed to ensure that the presentation aligns with your objectives. For more prompt to test out, see the next section below.
 
-### Advanced Use of Features
+### More Prompts to test out in Copilot in PowerPoint
 
-In more advanced use cases, Copilot offers powerful tools to optimize and enhance presentations. You can leverage these features to improve the visual and structural elements of your slides, ensuring that your content is presented in the most effective way.
+Copilot in PowerPoint offers powerful tools to optimize and enhance presentations. You can leverage these features to improve the visual and structural elements of your slides, ensuring that your content is presented in the most effective way.
 
 For example, Copilot can suggest alternative slide layouts based on the content provided, as well as automatically format presentations. You can experiment with Copilot’s suggestions by asking for recommendations on the best order to present your information for maximum impact:
 
@@ -47,9 +47,13 @@ For example, Copilot can suggest alternative slide layouts based on the content 
 You should also explore Copilot’s ability to refine and improve your presentation through iteration. This could involve revisiting Copilot’s suggestions with a more specific focus, such as:
 
  ```text
-Give me specific examples from this presentation on how I can improve it for better engagement.
-```
+ Give me specific examples from this presentation on how I can improve it for better engagement.
+ ```
+Another way to use Copilot is by adding new slides to address key aspects of your program. For instance, you can ask Copilot to generate slides on potential challenges and strategies:
 
+ ```text
+Add 2 slides detailing potential challenges this program may face, and include a slide that outlines key strategies to mitigate those challenges.
+ ```
 By exploring these advanced features, you can create more engaging and professional presentations while learning how to continuously iterate and improve your designs using Copilot’s intelligent recommendations.
 
 **Next**: [Optional Task 1](https://maquinl.github.io/CELA-Academy-Microsoft-Copilot-Experience/Instructions/Labs/Optional_Task_1_Create_an_image.html) | [Optional task 2](https://maquinl.github.io/CELA-Academy-Microsoft-Copilot-Experience/Instructions/Labs/Optional_Task_2_Data_mine_large_document.html)
