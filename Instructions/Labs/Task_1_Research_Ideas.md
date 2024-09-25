@@ -1,9 +1,9 @@
 ---
 task:
-    title: 'Task 1: Research Program Ideas'
+    title: 'Task 1: Research Giving Campaign Ideas'
 ---
 
-# Task 1: Research Program Ideas
+# Task 1: Research Giving Campaign Ideas
 
 Using Business Chat in the Microsoft 365 App (Microsoft.com/Copilot), research giving campaign ideas and philanthropic initiatives that align with corporate social responsibility goals. Focus on identifying successful strategies and emerging trends, with the goal of brainstorming and developing at least one new giving campaign idea inspired by your findings. This task is about generating an idea to build on in the next steps.
 

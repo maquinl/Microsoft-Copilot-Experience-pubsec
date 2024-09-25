@@ -1,9 +1,9 @@
 ---
 task:
-    title: 'Task 3: Create a Program Pitch Presentation'
+    title: 'Task 3: Create a Campaign Pitch Presentation'
 ---
 
-# Task 3: Create a Program Pitch Presentation
+# Task 3: Create a Campaign Pitch Presentation
 
 Using the Word document created in Task 2, leverage Copilot in PowerPoint to develop a pitch deck for your campaign idea. The presentation should be designed to communicate the vision, goals, and benefits of the proposed giving campaign to potential stakeholders or sponsors.
 

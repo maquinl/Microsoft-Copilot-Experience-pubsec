@@ -1,9 +1,9 @@
 ---
 task:
-    title: 'Task 2: Draft a Program Proposal'
+    title: 'Task 2: Draft a Campaign Proposal'
 ---
 
-# Task 2: Draft a Program Proposal
+# Task 2: Draft a Campaign Proposal
 
 Based on your research using BizChat, use Copilot in Word to draft a comprehensive proposal for your new giving campaign idea. The proposal should include a summary of the campaign’s objective, a detailed breakdown of expected outcomes, key strategies for success, and potential challenges.
 
