@@ -5,7 +5,9 @@ task:
 
 ### Task 4: Collaborate Using Pages 
 
-For this task, you’ll be using the Work tab in Business Chat to experience the new “Pages” functionality, which allows you to collaborate and organize ideas in a dynamic, shareable space. Pages act much like Loop components, making it easy to capture and refine content directly within your chat.
+In this task, you’ll explore the new **Pages** functionality, a dynamic, shareable space for collaboration and idea organization.
+
+At the moment, Pages is only available when using the **Work tab** scope in Business Chat; however, this functionality will be coming to the **Web tab** scope in the future.
 
 > While we provide sample prompts, feel free to personalize them in your own style. Be creative and experiment. If Copilot doesn't give the desired output, refine your prompt and try again. Enjoy the process!
 
