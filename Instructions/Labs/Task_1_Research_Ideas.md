@@ -21,7 +21,7 @@ Using Business Chat in the Microsoft 365 App (Microsoft.com/Copilot), research i
 5. Once you are finished researching your new program idea, save your program idea insights to the Word file you created earlier, titled **TEALS Program Research.docx**, for use in the next task.
 
 > [!NOTE] 
-> - Focus on identifying gaps or new opportunities TEALS could capitalize on.
+> - Focus on identifying gaps or new opportunities this program could capitalize on.
 > - Save the insights into a Word document titled “TEALS Program Research.”
 > - The example prompts are just that, an example. Use them as a guide to build your own prompts
 
