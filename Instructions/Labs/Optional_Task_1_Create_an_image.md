@@ -44,9 +44,6 @@ This optional task demonstrates how to use Microsoft 365 Copilot to quickly gene
     <div style="background-color: #e0f7ff; padding: 10px; border-left: 5px solid #0078D4;">
     <strong>Note:</strong> Replace the text within brackets with your specific choice
     </div>
-    <BR>
-
-
 
 **Next**: [Optional task 2](https://maquinl.github.io/CELA-Academy-Microsoft-Copilot-Experience/Instructions/Labs/Optional_Task_2_Data_mine_large_document.html)
 

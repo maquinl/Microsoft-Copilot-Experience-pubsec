@@ -4,7 +4,7 @@ permalink: index.html
 layout: home
 ---
 
-## Description
+## Growing your AI skills - Microsoft 365 Copilot Immersion Experience
 
 In this interactive experience you will come up with a new giving campaign using Microsoft 365 Copilot to streamline research, proposal drafting, and presentation creation.
 
