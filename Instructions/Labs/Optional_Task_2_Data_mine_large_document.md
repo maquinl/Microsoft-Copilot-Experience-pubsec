@@ -12,7 +12,7 @@ This optional task demonstrates how to use Microsoft 365 Copilot in Word to effi
 <strong>Note:</strong> While we provide sample prompts, feel free to personalize them in your own style. Be creative and experiment. If Copilot doesn't give the desired output, refine your prompt and try again. Enjoy the process!
 </div>
 
-1. Download and open the following file in Word on your desktop: [**Microsoft FY24 Second Quarter Earnings Conference Call**](https://github.com/MicrosoftLearning/MS-4012-Microsoft-Copilot-Unlocked/raw/master/Resourcefiles/Microsoft_FY24_Second_Quarter_Earnings_Conference_Call.docx).
+1. Download and open the following file in Word on your desktop: <a href="https://github.com/MicrosoftLearning/MS-4012-Microsoft-Copilot-Unlocked/raw/master/Resourcefiles/Microsoft_FY24_Second_Quarter_Earnings_Conference_Call.docx" target="_blank">**Microsoft FY24 Second Quarter Earnings Conference Call**</a>
 1. Within Word, on the ribbon, select the **Copilot icon**.
 
     ![Screenshot showing keep it in Copilot.](../Labs/Media/copilot_icon.png)

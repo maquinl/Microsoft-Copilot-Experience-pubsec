@@ -18,7 +18,7 @@ Using the Word document created in Task 2, leverage Copilot in PowerPoint to dev
 
     ![Screenshot showing the Share menu and the Copy Link option highlighted.](../Labs/Media/share-menu-with-copy-link.png)
 
-1. Launch Microsoft PowerPoint from your browser ([PowerPoint.new](https://PowerPoint.new)) or use the desktop application.
+1. Launch Microsoft PowerPoint from your browser (<a href="https://PowerPoint.new" target="_blank">PowerPoint.new</a>) or use the desktop application.
 
 1. Open a new blank presentation.
 

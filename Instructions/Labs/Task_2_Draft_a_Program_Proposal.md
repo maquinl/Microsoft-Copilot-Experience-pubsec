@@ -18,7 +18,7 @@ Based on your research using BizChat, use Copilot in Word to draft a comprehensi
 
     ![Screenshot showing the Share menu and the Copy Link option highlighted.](../Labs/Media/share-menu-with-copy-link.png)
 
-1. Launch Microsoft Word from your browser ([word.new](https://word.new)) or use the desktop application.
+1. Launch Microsoft Word from your browser (<a href="https://word.new" target="_blank">word.new</a>) or use the desktop application.
 
 1. Open a new blank document.
 

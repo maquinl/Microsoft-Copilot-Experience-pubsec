@@ -15,7 +15,7 @@ At the moment, Pages is only available when using the **Work tab** scope in Busi
 </div>
 ### Steps:
 
-1. To launch Business Chat, open a new Edge browser tab and navigate to [microsoft.com/copilot](https://Microsoft.com/copilot)
+1. To launch Business Chat, open a new Edge browser tab and navigate to <a href="https://Microsoft.com/Copilot" target="_blank">Microsoft.com/Copilot</a>.
 
 1. If prompted, log into your work account.
 
