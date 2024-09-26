@@ -9,10 +9,10 @@ In this task, you’ll explore the new **Pages** functionality, a dynamic, share
 
 At the moment, Pages is only available when using the **Work tab** scope in Business Chat; however, this functionality will be coming to the **Web tab** scope in the future.
 <BR>
+<BR>
 <div style="background-color: #e0f7ff; padding: 10px; border-left: 5px solid #0078D4;">
 <strong>Note:</strong> While we provide sample prompts, feel free to personalize them in your own style. Be creative and experiment. If Copilot doesn't give the desired output, refine your prompt and try again. Enjoy the process!
 </div>
-
 ### Steps:
 
 1. To launch Business Chat, open a new Edge browser tab and navigate to [microsoft.com/copilot](https://Microsoft.com/copilot)
