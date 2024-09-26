@@ -1,9 +1,9 @@
 ---
 task:
-    title: 'Task 4: Collaborate Using Pages'
+    title: 'Task 4: Collaborate with Pages'
 ---
 
-# Task 4: Collaborate Using Pages 
+# Task 4: Collaborate with Pages 
 
 In this task, you’ll explore the new **Pages** functionality, a dynamic, shareable space for collaboration and idea organization.
 
@@ -26,7 +26,7 @@ At the moment, Pages is only available when using the **Work tab** scope in Busi
 1. Type the following prompt into the chat:
 
     ```text
-    What are the key steps we should take to launch a successful giving campaign within our company?
+    What are the key steps we should take to launch a successful Giving Campaign within our company?
     ```
 1. Copilot will respond with a structured answer. Below the response, select **Edit in Pages**:
 
@@ -38,7 +38,7 @@ At the moment, Pages is only available when using the **Work tab** scope in Busi
 
     ![Screenshot showing share and notify in pages.](../Labs/Media/share.png)
 
-1. Once your colleague has access, you are free to work together to refine the ideas and organize steps for the giving campaign.
+1. Once your colleague has access, you are free to work together to refine the ideas and organize steps for the Giving Campaign.
 
 **Next**: [Optional Task 1](https://maquinl.github.io/CELA-Academy-Microsoft-Copilot-Experience/Instructions/Labs/Optional_Task_1_Create_an_image.html) | [Optional task 2](https://maquinl.github.io/CELA-Academy-Microsoft-Copilot-Experience/Instructions/Labs/Optional_Task_2_Data_mine_large_document.html)
 

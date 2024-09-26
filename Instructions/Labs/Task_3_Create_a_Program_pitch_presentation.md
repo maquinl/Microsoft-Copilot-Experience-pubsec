@@ -5,7 +5,7 @@ task:
 
 # Task 3: Create a Campaign Pitch Presentation
 
-Using the Word document created in Task 2, leverage Copilot in PowerPoint to develop a pitch deck for your campaign idea. The presentation should be designed to communicate the vision, goals, and benefits of the proposed giving campaign to potential stakeholders or sponsors.
+Using the Word document created in Task 2, leverage Copilot in PowerPoint to develop a pitch deck for your campaign idea. The presentation should be designed to communicate the vision, goals, and benefits of the proposed Giving Campaign to potential stakeholders or sponsors.
 <BR>
 <BR>
 <div style="background-color: #e0f7ff; padding: 10px; border-left: 5px solid #0078D4;">
@@ -59,7 +59,7 @@ You can also refine your presentation through iteration. For example, you might 
 Additionally, Copilot can help you add new slides to address critical aspects of your campaign. For instance, you can generate slides that cover potential challenges and strategies:
 
  ```text
-Add 2 slides detailing potential challenges this giving campaign may face, and include a slide that outlines key strategies to mitigate those challenges.
+Add 2 slides detailing potential challenges this Giving Campaign may face, and include a slide that outlines key strategies to mitigate those challenges.
  ```
 By experimenting with these prompts, you can create more engaging and polished presentations, while learning to continuously iterate and improve your designs with Copilot’s intelligent recommendations.
 

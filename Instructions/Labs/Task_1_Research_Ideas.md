@@ -1,11 +1,11 @@
 ---
 task:
-    title: 'Task 1: Research Giving Campaign Ideas'
+    title: 'Task 1: Research Campaign Ideas'
 ---
 
-# Task 1: Research Giving Campaign Ideas
+# Task 1: Research Campaign Ideas
 
-Using Business Chat in the Microsoft 365 App (Microsoft.com/Copilot), research giving campaign ideas and philanthropic initiatives that align with corporate social responsibility goals. Focus on identifying successful strategies and emerging trends, with the goal of brainstorming and developing at least one new giving campaign idea inspired by your findings. This task is about generating an idea to build on in the next steps.
+Using Business Chat in the Microsoft 365 App (Microsoft.com/Copilot), research Giving Campaign ideas and philanthropic initiatives that align with corporate social responsibility goals. Focus on identifying successful strategies and emerging trends, with the goal of brainstorming and developing at least one new Giving Campaign idea inspired by your findings. This task is about generating an idea to build on in the next steps.
 <BR>
 <BR>
 <div style="background-color: #e0f7ff; padding: 10px; border-left: 5px solid #0078D4;">
@@ -28,7 +28,7 @@ Using Business Chat in the Microsoft 365 App (Microsoft.com/Copilot), research g
     - Role Prompting (Persona-based Prompting)
     - Chain of Thought Prompting
 
-5. Once you are finished researching your new giving campaign idea, save your program idea insights to the Word file you created earlier, titled **Copilot Research.docx**, for use in the next task.
+5. Once you are finished researching your new Giving Campaign idea, save your program idea insights to the Word file you created earlier, titled **Copilot Research.docx**, for use in the next task.
 
 ## Single-Shot Prompting 
 
@@ -37,7 +37,7 @@ Single-shot prompting is a technique where a single, well-crafted prompt is used
 For example:
 
 ```text
-Can you provide an overview of recent trends in corporate giving campaigns that have successfully engaged communities and driven positive change?
+Can you provide an overview of recent trends in corporate Giving Campaigns that have successfully engaged communities and driven positive change?
 ```
 In this method, you rely on the AI's ability to provide a detailed and holistic response based on the single prompt. This approach is more efficient when you're seeking a broad summary or a quick solution, but it may not allow for the same depth of exploration as Chain of Thought (CoT) prompting.
 
@@ -48,7 +48,7 @@ Role prompting, or persona-based prompting, involves asking the AI to take on a 
 Here’s an example of how you could apply role prompting:
 
 ```text
-You are an employee at a Fortune 500 company, and you've been tasked with creating a grassroots giving campaign focused on environmental sustainability. How would you engage your colleagues and ensure the campaign aligns with the company's sustainability goals?
+You are an employee at a Fortune 500 company, and you've been tasked with creating a grassroots Giving Campaign focused on environmental sustainability. How would you engage your colleagues and ensure the campaign aligns with the company's sustainability goals?
 ```
 
 In this prompt, the AI assumes the role of a corporate employee tasked with running a sustainability-focused campaign, with the goal of rallying internal support and aligning with corporate values.
@@ -56,7 +56,7 @@ In this prompt, the AI assumes the role of a corporate employee tasked with runn
 Or, you can refine the focus further:
 
 ```text
-You are an employee at a large organization who is passionate about improving educational opportunities for underserved communities. You want to lead a new giving campaign centered around increasing access to technology in local schools. What steps would you take to mobilize your colleagues, build community partnerships, and ensure that the campaign has a lasting impact?
+You are an employee at a large organization who is passionate about improving educational opportunities for underserved communities. You want to lead a new Giving Campaign centered around increasing access to technology in local schools. What steps would you take to mobilize your colleagues, build community partnerships, and ensure that the campaign has a lasting impact?
 ```
 
 Using role prompting in this way allows you to think critically about your role within the organization and develop a campaign that aligns with both internal goals and external impact. It adds a personal and professional perspective, helping you tailor the campaign for maximum effectiveness.
@@ -69,7 +69,7 @@ For example
 
 - **Prompt 1:** 
     ```text
-    Can you help identify common challenges faced by corporate giving campaigns in engaging communities or driving long-term impact?
+    Can you help identify common challenges faced by corporate Giving Campaigns in engaging communities or driving long-term impact?
     ```
 - **Prompt 2:** 
     ```text

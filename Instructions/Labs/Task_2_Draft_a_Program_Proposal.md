@@ -5,7 +5,7 @@ task:
 
 # Task 2: Draft a Campaign Proposal
 
-Based on your research using BizChat, use Copilot in Word to draft a comprehensive proposal for your new giving campaign idea. The proposal should include a summary of the campaign’s objective, a detailed breakdown of expected outcomes, key strategies for success, and potential challenges.
+Based on your research using BizChat, use Copilot in Word to draft a comprehensive proposal for your new Giving Campaign idea. The proposal should include a summary of the campaign’s objective, a detailed breakdown of expected outcomes, key strategies for success, and potential challenges.
 <BR>
 <BR>
 <div style="background-color: #e0f7ff; padding: 10px; border-left: 5px solid #0078D4;">
@@ -29,7 +29,7 @@ Based on your research using BizChat, use Copilot in Word to draft a comprehensi
 1. Enter the following prompt into the prompt field:
 
     ```text
-    Based on the research in [Link to Copilot Research.docx], draft a comprehensive proposal for this new giving campaign. The proposal should include a summary of the campaign’s objective, a detailed breakdown of expected outcomes, key strategies for success, and potential challenges. Ensure the proposal is well-structured and clearly formatted to support decision-making and stakeholder alignment.
+    Based on the research in [Link to Copilot Research.docx], draft a comprehensive proposal for this new Giving Campaign. The proposal should include a summary of the campaign’s objective, a detailed breakdown of expected outcomes, key strategies for success, and potential challenges. Ensure the proposal is well-structured and clearly formatted to support decision-making and stakeholder alignment.
     ```
 
 1. Select **Generate**. At this point, Copilot in Word extracts the information from your research document and drafts the proposal.
