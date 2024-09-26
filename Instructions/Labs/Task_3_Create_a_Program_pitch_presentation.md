@@ -7,8 +7,9 @@ task:
 
 Using the Word document created in Task 2, leverage Copilot in PowerPoint to develop a pitch deck for your campaign idea. The presentation should be designed to communicate the vision, goals, and benefits of the proposed giving campaign to potential stakeholders or sponsors.
 
-> [!NOTE] 
-> While we provide sample prompts, feel free to personalize them in your own style. Be creative and experiment. If Copilot doesn't give the desired output, refine your prompt and try again. Enjoy the process!
+<div style="background-color: #e0f7ff; padding: 10px; border-left: 5px solid #0078D4;">
+<strong>Note:</strong> While we provide sample prompts, feel free to personalize them in your own style. Be creative and experiment. If Copilot doesn't give the desired output, refine your prompt and try again. Enjoy the process!
+</div>
 
 ### Steps:
 
@@ -32,8 +33,9 @@ Using the Word document created in Task 2, leverage Copilot in PowerPoint to dev
 
 1. Copilot will start to create a slide presentation based on the Giving Campaign Proposal document. In doing so, it displays the outline of the presentation and a list of features included in the presentation. These features may include speaker notes, images, layouts to organize slides, and a General sensitivity label.
 
-    > [!NOTE] 
-    > It can take up to two minutes for the slides to fully generate. The time it takes to generate the slides depends on the complexity of the document and the number of slides that Copilot creates.
+    <div style="background-color: #e0f7ff; padding: 10px; border-left: 5px solid #0078D4;">
+    <strong>Note:</strong>It can take up to two minutes for the slides to fully generate. The time it takes to generate the slides depends on the complexity of the document and the number of slides that Copilot creates.
+    </div>
 
 1. Once completed, you're free to review the slides and make any necessary updates. You can use the Designer tool to adjust the layouts. You can also add or remove slides and modify the content as needed to ensure the presentation aligns with your objectives. For more prompts to try out, see the next section below.
 

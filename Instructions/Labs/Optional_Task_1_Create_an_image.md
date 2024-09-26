@@ -24,6 +24,7 @@ This optional task demonstrates how to use Microsoft 365 Copilot to quickly gene
         ```text
         Create a simple and modern logo for our new giving campaign named [campaign name], targeting [target audience/community]. The logo should convey qualities such as [desired qualities, e.g., impact, compassion, inclusivity]. It should be versatile for use on digital platforms and print materials.
         ```
+
         <div style="background-color: #e0f7ff; padding: 10px; border-left: 5px solid #0078D4;">
         <strong>Note:</strong> Replace the text within brackets with your specific choice
         </div>
@@ -39,6 +40,7 @@ This optional task demonstrates how to use Microsoft 365 Copilot to quickly gene
     ```text
     Generate a catchy marketing slogan for our new giving campaign [campaign name] that highlights its unique value proposition and appeals to [target audience/community].
     ```
+    
     <div style="background-color: #e0f7ff; padding: 10px; border-left: 5px solid #0078D4;">
     <strong>Note:</strong> Replace the text within brackets with your specific choice
     </div>

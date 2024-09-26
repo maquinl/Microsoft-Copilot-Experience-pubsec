@@ -7,8 +7,9 @@ task:
 
 Based on your research using BizChat, use Copilot in Word to draft a comprehensive proposal for your new giving campaign idea. The proposal should include a summary of the campaign’s objective, a detailed breakdown of expected outcomes, key strategies for success, and potential challenges.
 
-> [!NOTE] 
-> While we provide sample prompts, feel free to personalize them in your own style. Be creative and experiment. If Copilot doesn't give the desired output, refine your prompt and try again. Enjoy the process!
+<div style="background-color: #e0f7ff; padding: 10px; border-left: 5px solid #0078D4;">
+<strong>Note:</strong> While we provide sample prompts, feel free to personalize them in your own style. Be creative and experiment. If Copilot doesn't give the desired output, refine your prompt and try again. Enjoy the process!
+</div>
 
 ### Steps:
 
