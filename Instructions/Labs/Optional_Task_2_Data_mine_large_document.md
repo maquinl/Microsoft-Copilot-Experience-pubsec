@@ -6,7 +6,7 @@ task:
 # Optional Task 2: Summarize a large document
 
 This optional task demonstrates how to use Microsoft 365 Copilot in Word to efficiently extract and summarize key insights from large documents. It showcases Copilot's ability to streamline data mining, emphasizing its practical application in simplifying complex document analysis.
-
+<BR>
 <div style="background-color: #e0f7ff; padding: 10px; border-left: 5px solid #0078D4;">
 <strong>Note:</strong> While we provide sample prompts, feel free to personalize them in your own style. Be creative and experiment. If Copilot doesn't give the desired output, refine your prompt and try again. Enjoy the process!
 </div>

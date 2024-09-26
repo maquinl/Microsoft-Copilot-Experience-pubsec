@@ -6,13 +6,13 @@ layout: home
 
 ## Description
 
-In this interactive experience you will come up with a new giving Campaign using Microsoft 365 Copilot to streamline research, proposal drafting, and presentation creation.
+In this interactive experience you will come up with a new giving campaign using Microsoft 365 Copilot to streamline research, proposal drafting, and presentation creation.
 
 - You will have 25 minutes to complete the objective.
 - In your browser, enter “Word.new” and then save a new document as “Copilot Research” to your OneDrive account.
 - Try different Copilots, experiment with prompts to see what works best, and enjoy the creative process!
 
-You will perform three tasks: 
+You will perform four tasks: 
 
 ### [Task 1: Research Giving Campaign Ideas](https://maquinl.github.io/CELA-Academy-Microsoft-Copilot-Experience/Instructions/Labs/Task_1_Research_Ideas.html)
 
@@ -30,21 +30,12 @@ Using the Word document created in Task 2, leverage Copilot in PowerPoint to dev
 
 Experience the new “Pages” functionality, which allows you to collaborate and organize ideas in a dynamic, shareable space. 
 
-### [Optional Task 1: Generate Marketing Ideas](https://maquinl.github.io/CELA-Academy-Microsoft-Copilot-Experience/Instructions/Labs/Optional_Task_1_Create_an_image.html)
+### Optional Tasks:
 
-Use Microsoft 365 Copilot to quickly generate a range of creative outputs. It showcases the practical application of Copilot's features, emphasizing how you can extend your work in innovative ways.
+- #### [Optional Task 1: Generate Marketing Ideas](https://maquinl.github.io/CELA-Academy-Microsoft-Copilot-Experience/Instructions/Labs/Optional_Task_1_Create_an_image.html)
 
-### [Optional Task 2: Summarize a large document ](https://maquinl.github.io/CELA-Academy-Microsoft-Copilot-Experience/Instructions/Labs/Optional_Task_2_Data_mine_large_document.html)
+    Use Microsoft 365 Copilot to quickly generate a range of creative outputs. It showcases the practical application of Copilot's features, emphasizing how you can extend your work in innovative ways.
 
-Use Microsoft 365 Copilot in Word to efficiently extract and summarize key insights from large documents. It showcases Copilot's ability to streamline data mining, emphasizing its practical application in simplifying complex document analysis.
+- #### [Optional Task 2: Summarize a large document ](https://maquinl.github.io/CELA-Academy-Microsoft-Copilot-Experience/Instructions/Labs/Optional_Task_2_Data_mine_large_document.html)
 
-**Hyperlinks to each task are listed below.**
-
-## Tasks
-
-{% assign tasks = site.pages | where_exp:"page", "page.url contains '/Instructions/Labs'" %}
-
-| tasks |
-| --- |
-{% for activity in tasks %}| [{{ activity.task.title }}]({{ site.github.url }}{{ activity.url }}) |
-{% endfor %}
+    Use Microsoft 365 Copilot in Word to efficiently extract and summarize key insights from large documents. It showcases Copilot's ability to streamline data mining, emphasizing its practical application in simplifying complex document analysis.
