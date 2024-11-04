@@ -41,9 +41,9 @@ For example:
 <details>
   <summary>Click to reveal example prompt</summary>
 
-  <pre><Text>
+  <pre><text>
     Can you provide an overview of recent trends in corporate Giving Campaigns that have successfully engaged communities and driven positive change?
-  </code></pre>
+  </text></pre>
 </details>
 
 In this method, you rely on the AI's ability to provide a detailed and holistic response based on the single prompt. This approach is more efficient when you're seeking a broad summary or a quick solution, but it may not allow for the same depth of exploration as Chain of Thought (CoT) prompting.
