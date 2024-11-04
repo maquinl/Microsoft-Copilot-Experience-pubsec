@@ -41,7 +41,7 @@ For example:
 <details>
   <summary>Click to reveal example prompt</summary>
 
-  <pre><code>
+  <pre><Text>
     Can you provide an overview of recent trends in corporate Giving Campaigns that have successfully engaged communities and driven positive change?
   </code></pre>
 </details>
