@@ -63,7 +63,7 @@ Add 2 slides detailing potential challenges this Giving Campaign may face, and i
  ```
 By experimenting with these prompts, you can create more engaging and polished presentations, while learning to continuously iterate and improve your designs with Copilot’s intelligent recommendations.
 
-**Next**: [Task 4](https://maquinl.github.io/CELA-Academy-Microsoft-Copilot-Experience/Instructions/Labs/Task_4_Collaborate_Using_Pages.html)
+**Next**: [Task 4](https://maquinl.github.io/Microsoft-Copilot-Experience-pubsec/Instructions/Labs/Task_4_Collaborate_Using_Pages.html)
 
-[Back to Index](https://maquinl.github.io/CELA-Academy-Microsoft-Copilot-Experience/) 
+[Back to Index](https://maquinl.github.io/Microsoft-Copilot-Experience-pubsec/) 
 

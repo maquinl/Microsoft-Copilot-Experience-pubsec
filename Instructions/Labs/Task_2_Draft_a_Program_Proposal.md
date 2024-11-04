@@ -57,6 +57,6 @@ Improve the summary to make it more concise and impactful.
 
 Experimenting with these prompts allows you to refine your content through thoughtful adjustments, ultimately creating more persuasive and impactful results
 
-**Next**: [Task 3](https://maquinl.github.io/CELA-Academy-Microsoft-Copilot-Experience/Instructions/Labs/Task_3_Create_a_Program_pitch_presentation.html)
+**Next**: [Task 3](https://maquinl.github.io/Microsoft-Copilot-Experience-pubsec/Instructions/Labs/Task_3_Create_a_Program_pitch_presentation.html)
 
-[Back to Index](https://maquinl.github.io/CELA-Academy-Microsoft-Copilot-Experience/) 
+[Back to Index](https://maquinl.github.io/Microsoft-Copilot-Experience-pubsec/) 

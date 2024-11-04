@@ -40,6 +40,6 @@ At the moment, Pages is only available when using the **Work tab** scope in Busi
 
 1. Once your colleague has access, you are free to work together to refine the ideas and organize steps for the Giving Campaign.
 
-**Next**: [Optional Task 1](https://maquinl.github.io/CELA-Academy-Microsoft-Copilot-Experience/Instructions/Labs/Optional_Task_1_Create_an_image.html) | [Optional task 2](https://maquinl.github.io/CELA-Academy-Microsoft-Copilot-Experience/Instructions/Labs/Optional_Task_2_Data_mine_large_document.html)
+**Next**: [Optional Task 1](https://maquinl.github.io/Microsoft-Copilot-Experience-pubsec/Instructions/Labs/Optional_Task_1_Create_an_image.html) | [Optional task 2](https://maquinl.github.io/Microsoft-Copilot-Experience-pubsec/Instructions/Labs/Optional_Task_2_Data_mine_large_document.html)
 
-[Back to Index](https://maquinl.github.io/CELA-Academy-Microsoft-Copilot-Experience/)
+[Back to Index](https://maquinl.github.io/Microsoft-Copilot-Experience-pubsec/)

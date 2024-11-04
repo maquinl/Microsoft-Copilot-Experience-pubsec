@@ -86,6 +86,6 @@ For example
     ```
 By using a CoT prompt, you encourage deeper engagement with the subject matter, leading to more thoughtful and well-rounded answers. This approach fosters a logical progression of ideas, making it easier to explore complex scenarios and arrive at actionable insights.
 
-**Next**: [Task 2](https://maquinl.github.io/CELA-Academy-Microsoft-Copilot-Experience/Instructions/Labs/Task_2_Draft_a_Program_Proposal.html)
+**Next**: [Task 2](https://maquinl.github.io/Microsoft-Copilot-Experience-pubsec/Instructions/Labs/Task_2_Draft_a_Program_Proposal.html)
 
-[Back to Index](https://maquinl.github.io/CELA-Academy-Microsoft-Copilot-Experience/) 
+[Back to Index](https://maquinl.github.io/Microsoft-Copilot-Experience-pubsec/) 

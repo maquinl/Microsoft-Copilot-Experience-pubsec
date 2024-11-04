@@ -32,4 +32,4 @@ This optional task demonstrates how to use Copilot in Word to efficiently extrac
     
 1. Select **Send**.
 
-[Back to Index](https://maquinl.github.io/CELA-Academy-Microsoft-Copilot-Experience/)
+[Back to Index](https://maquinl.github.io/Microsoft-Copilot-Experience-pubsec/)
