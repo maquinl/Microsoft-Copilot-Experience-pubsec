@@ -36,13 +36,15 @@ Single-shot prompting is a technique where a single, well-crafted prompt is used
 
 For example:
 
+For example:
+
 <details>
   <summary>Click to reveal example prompt</summary>
 
-```text
-Can you provide an overview of recent trends in corporate Giving Campaigns that have successfully engaged communities and driven positive change?
-```
-</details> 
+  <pre><code>
+    Can you provide an overview of recent trends in corporate Giving Campaigns that have successfully engaged communities and driven positive change?
+  </code></pre>
+</details>
 
 In this method, you rely on the AI's ability to provide a detailed and holistic response based on the single prompt. This approach is more efficient when you're seeking a broad summary or a quick solution, but it may not allow for the same depth of exploration as Chain of Thought (CoT) prompting.
 
