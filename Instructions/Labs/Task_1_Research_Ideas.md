@@ -39,13 +39,48 @@ For example:
 For example:
 
 <details>
-  <summary>Click to reveal example prompt</summary>
+  <summary>Function 1</summary>
 
   <pre><text>
     Can you provide an overview of recent trends in corporate Giving Campaigns that have successfully engaged communities and driven positive change?
   </text></pre>
 </details>
 
+
+<details>
+  <summary>Function 2</summary>
+
+  <pre><text>
+    Can you provide an overview of recent trends in corporate Giving Campaigns that have successfully engaged communities and driven positive change?
+  </text></pre>
+</details>
+
+
+<details>
+  <summary>Function 3</summary>
+
+  <pre><text>
+    Can you provide an overview of recent trends in corporate Giving Campaigns that have successfully engaged communities and driven positive change?
+  </text></pre>
+</details>
+
+
+<details>
+  <summary>Function 4</summary>
+
+  <pre><text>
+    Can you provide an overview of recent trends in corporate Giving Campaigns that have successfully engaged communities and driven positive change?
+  </text></pre>
+</details>
+
+
+<details>
+  <summary>Function 5</summary>
+
+  <pre><text>
+    Can you provide an overview of recent trends in corporate Giving Campaigns that have successfully engaged communities and driven positive change?
+  </text></pre>
+</details>
 In this method, you rely on the AI's ability to provide a detailed and holistic response based on the single prompt. This approach is more efficient when you're seeking a broad summary or a quick solution, but it may not allow for the same depth of exploration as Chain of Thought (CoT) prompting.
 
 ## Role Prompting (Persona-Based Prompting)
