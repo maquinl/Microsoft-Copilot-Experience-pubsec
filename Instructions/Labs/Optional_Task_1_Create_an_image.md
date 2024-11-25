@@ -3,6 +3,7 @@ task:
     title: 'Optional Task 1: Generate Marketing Ideas'
 ---
 
+
 # Optional Task 1: Generate Marketing Ideas
 
 This optional task demonstrates how to use Microsoft 365 Copilot to quickly generate a range of creative outputs. It showcases the practical application of Copilot's features, emphasizing how you can extend your work in innovative ways.
