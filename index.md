@@ -4,21 +4,19 @@ permalink: index.html
 layout: home
 ---
 
-## Description
+## Proof of concept - Microsoft 365 Copilot Immersion Experience: Pub Sec
 
-In this interactive experience you will Design a new initiative for TEALS (Technology Education and Literacy in Schools) using Microsoft 365 Copilot to streamline research, proposal drafting, and presentation creation.
+Insert summary of activity
 
-- You will have 25 minutes to complete the objective.
-- In your browser, enter “Word.new” and then save a new document as “Copilot Research” to your OneDrive account.
-- Try different Copilots, experiment with prompts to see what works best, and enjoy the creative process!
+You will perform four tasks: 
 
-You will perform three tasks: 
+### [Task 1: Research Campaign Ideas](https://maquinl.github.io/Microsoft-Copilot-Experience-pubsec/Instructions/Labs/Task_1_Research_Ideas.html)
 
-### [Task 1: Research Program Ideas](https://maquinl.github.io/CELA-Academy-Microsoft-Copilot-Experience/Instructions/Labs/Task_1_Research_Ideas.html)
+### [Task 2: TBD]
 
-Using Microsoft 365 Business Chat, research innovative educational programs or initiatives outside of TEALS. The goal is to find inspiration and explore successful elements that could inform the design of a new TEALS program. Consider emerging trends in technology education and literacy, as well as challenges faced by underserved 
+### [Task 3: TBD]
 
-### [Task 2: Draft a Program Proposal](https://maquinl.github.io/CELA-Academy-Microsoft-Copilot-Experience/Instructions/Labs/Task_2_Draft_a_Program_Proposal.html)
+### [Task 4: TBD]
 
 Based on your research, use Copilot in Word to draft a comprehensive proposal for your new TEALS initiative. The proposal should include the program’s objectives, target audience, expected outcomes, and key strategies for success.
 
@@ -48,3 +46,5 @@ Use Microsoft 365 Copilot in Word to efficiently extract and summarize key insig
 | --- |
 {% for activity in tasks %}| [{{ activity.task.title }}]({{ site.github.url }}{{ activity.url }}) |
 {% endfor %}
+
+
